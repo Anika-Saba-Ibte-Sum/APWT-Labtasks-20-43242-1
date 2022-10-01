@@ -1,9 +1,9 @@
 @extends('layouts.app')
 @section('content')
 <div>
-
+<br>
 <table>
-  <tr><br><br>
+  <tr><br>
     <th>Product Website Name</th>
     <th>Link</th>
   </tr>
