@@ -1,8 +1,8 @@
 @extends('layouts.app')
 @section('content')
 <div><br><br><br>
-<h3>Inspirational designs, illustrations, and graphic elements from the world’s best designers. <br>
-Want more inspiration? Browse our search results...</h3>
+
+<h3>The company's platform provides a wide range of food, grocery, electronics, clothing, and other similar products, enabling customers to access all products on one platform.</h3>
     
     
 </div>

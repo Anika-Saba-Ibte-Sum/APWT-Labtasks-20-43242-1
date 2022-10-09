@@ -48,14 +48,12 @@ class PagesController extends Controller
     }
 
     public function product(){
-        $name = "Mr. x";
-        $id="11-11111-1";
-        $dob = "10-10-2010";
-        $names=array("Mr. X", "Mr. Y", "Mr. Z");
+        $name = "iPhone 13 Pro Max";
+        $price="120,000 tk. BDT";
+        $names=array("iPhone 13 Pro Max", "iPhone 13 Pro", "iPhone 12 Pro Max", "iPhone 12 Pro ");
         return view('product')
         ->with('name', $name)
-        ->with('id', $id)
-        ->with('dob', $dob)
+        ->with('price', $price)
         ->with('names', $names);
     }
 

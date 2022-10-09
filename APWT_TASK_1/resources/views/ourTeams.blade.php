@@ -4,7 +4,7 @@
 <br><br><br>
 <h3>Evaly Executive Team & Key Decision Makers</h3>
 <br><br>
-<table>
+<table class= "table table-border">
   <tr>
     <th>Name & Title</th>
     <th>Social</th>
